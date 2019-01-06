@@ -354,7 +354,7 @@ echo    " 4. Webdav Mass Exploit"
 echo    "===========================" | lolcat
 echo    " 5. Websploit"
 echo    "==========================="|lolcat
-echo.   " 00. back"
+echo    " 00. back"
 echo    "==========================="|lolcat
 echo    "╭─[web hack]"
 read -p "╰─root@./MR_XID=" ga;
@@ -402,7 +402,6 @@ python2 viSQL.py
 fi 
 if if [ $ga = 00 ] || [ $ga = 00 ]
 then 
-clear 
-bash toolxidploit.sh
+sh toolxidploit.sh
 exit
 fi
