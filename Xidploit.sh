@@ -402,6 +402,6 @@ python2 viSQL.py
 fi 
 if if [ $ga = 00 ] || [ $ga = 00 ]
 then 
-sh toolxidploit.sh
+sh Xidploit.sh
 exit
 fi
