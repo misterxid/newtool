@@ -342,8 +342,8 @@ chmod +x create.py
 python2 create.py
 fi 
 if [ $sf = 11 ] || [ $sf = 11 ]
-then
-figlet "WEBSITE HACK" | lolcat
+then 
+clear
 echo    "==========================="|lolcat
 echo    " 1. admin-panel-finder "
 echo    "==========================="|lolcat
